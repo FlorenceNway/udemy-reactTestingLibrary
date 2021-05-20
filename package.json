@@ -1,0 +1,22 @@
+{
+  "name": "udemy-reacttestinglibrary",
+  "version": "1.0.0",
+  "description": "practicing TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorenceNway/udemy-reactTestingLibrary.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "FlorenceNway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorenceNway/udemy-reactTestingLibrary/issues"
+  },
+  "homepage": "https://github.com/FlorenceNway/udemy-reactTestingLibrary#readme"
+}
