@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/FlorenceNway/udemy-reactTestingLibrary/issues"
   },
-  "homepage": "https://github.com/FlorenceNway/udemy-reactTestingLibrary#readme"
+  "homepage": "https://github.com/FlorenceNway/udemy-reactTestingLibrary#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0"
+  }
 }
