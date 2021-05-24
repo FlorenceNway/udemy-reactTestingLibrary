@@ -18,7 +18,7 @@ module.exports = {
       }
     ]
   },
-  resolve: { extensions: ["*", ".js", ".jsx"] },
+  resolve: { extensions: ["*", ".js", ".jsx"] }, // allow us to import files without extensions
   output: {
     path: path.resolve(__dirname, "dist/"),
     publicPath: "/dist/",
