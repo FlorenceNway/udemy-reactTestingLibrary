@@ -1,1 +1,2 @@
-Learn React Testing Library from udemy
+React playground 
+- to practice different usages
